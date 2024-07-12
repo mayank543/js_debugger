@@ -18,4 +18,4 @@ UPDATED 2018-10-30
 - [Online Decoder](http://enkhee-Osiris.github.io/Decoder-JSFuck)
 - [JS](http://www.jsfuck.com)
 
-**Crafted with <3 by mayank**
+**Crafted with  by mayank**
